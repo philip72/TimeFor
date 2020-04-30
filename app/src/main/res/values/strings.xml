@@ -1,5 +1,3 @@
 <resources>
     <string name="app_name">TimeFor</string>
-    <string name="create_account"> <u> Create Account </u> </string>
-    <string name="new_member_sign_up">new member?<u> Sign up </u></string>
 </resources>
