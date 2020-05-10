@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "96795507598",
+    "firebase_url": "https://timefor-452ce.firebaseio.com",
+    "project_id": "timefor-452ce",
+    "storage_bucket": "timefor-452ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:96795507598:android:3f86a5e61761a0a7fd42df",
+        "android_client_info": {
+          "package_name": "com.example.timefor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "96795507598-rruuu7guc41k83ttpqt48i7fpajh6pd6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBu-B-7X_yZhTHxv5ECOG8GNZEbcD5nSQM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "96795507598-rruuu7guc41k83ttpqt48i7fpajh6pd6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
