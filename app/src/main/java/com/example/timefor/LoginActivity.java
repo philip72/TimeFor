@@ -2,6 +2,7 @@ package com.example.timefor;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+import android.app.Activity;
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
@@ -24,7 +25,7 @@ public class LoginActivity extends AppCompatActivity {
     }
 
     private void openSignup() {
-        Intent intent = new Intent (this, signin_activity.class);
+        Intent intent = new Intent (this, SignupActivity.class);
         startActivity(intent);
     }
 }
